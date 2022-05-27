@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-temp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mapxn/vuepress-temp.git",
+  "author": "mapxn <16299874+mapxn@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.46"
+  }, 
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
