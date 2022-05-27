@@ -6,7 +6,7 @@ export default defineUserConfig({
     title: 'VuePress模板',
     description: '这是我的第一个 VuePress 站点',
     theme: defaultTheme({
-
+        base: 'vuepress-temp',
         docsRepo: 'https://github.com/mapxn/vuepress-temp',
         docsBranch: 'main',
         docsDir: 'docs',
